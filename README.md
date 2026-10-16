@@ -1,100 +1,150 @@
  
 <div align="center">
 
-# 👋 Olá! Eu sou o Guilherme
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Guilherme%20Soares&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=15" width="100%" alt="Banner de Guilherme Soares"/>
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Desenvolvimento+Web+%7C+HTML+%26+CSS;Aprendendo+Java+e+novas+tecnologias;Construindo+meu+futuro+na+TI+%F0%9F%9A%80" alt="Apresentação animada"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+HTML+e+CSS;Conhecimentos+b%C3%A1sicos+em+Java;Construindo+meus+primeiros+projetos)](https://git.io/typing-svg)
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-guilherme--18-181717?style=for-the-badge&logo=github)](https://github.com/guilherme-18)
+<a href="https://github.com/guilherme-18">
+<img src="https://img.shields.io/badge/GitHub-guilherme--18-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Status-Em%20aprendizado-0F766E?style=for-the-badge&logo=bookstack&logoColor=white" alt="Em aprendizado"/>
+<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Desenvolvimento Web"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Sobre mim
 
-- 🎓 Estudante do **1º ano do curso técnico de Análise e Desenvolvimento de Sistemas na ETEC de Guaianases**.
-- 🌐 Estudando desenvolvimento web com **HTML5 e CSS3**.
-- ☕ Possuo conhecimentos básicos em **Java** e **python**.
-- 🇬🇧 Estudando inglês, atualmente no nível **A2**.
-- 🧠 Buscando aprender novas tecnologias e desenvolver projetos práticos.
-- 💼 Interessado em oportunidades de **Jovem Aprendiz na área de Tecnologia da Informação (TI)**.
-- 🚀 Meu objetivo é evoluir como desenvolvedor, ganhar experiência e construir um portfólio cada vez melhor.
+Olá! Sou estudante do **1º ano do curso técnico de Análise e Desenvolvimento de Sistemas na ETEC de Guaianases** e estou construindo minha trajetória na área de tecnologia.
 
-## 🛠️ Tecnologias e ferramentas
+### 🎯 Objetivo
 
-<div align="center">
+- Iniciar minha carreira em TI
+- Buscar oportunidades de Jovem Aprendiz
+- Aprender com projetos reais
+- Evoluir profissionalmente
 
-### Conhecimentos atuais
+</td>
+</tr>
+</table>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![Java](https://img.shields.io/badge/Java-Basico-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
-
-### Ferramentas utilizadas
-
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-</div>
-
-## 📂 Projetos em destaque
-
-Confira meus projetos e acompanhe minha evolução como estudante de tecnologia.
-
-### 🌐 Projetos de desenvolvimento web
-
-Tenho projetos de sites desenvolvidos com HTML e CSS, incluindo páginas com layouts personalizados e organização visual.
-
-🔗 **[Acessar meus repositórios no GitHub](https://github.com/guilherme-18?tab=repositories)**
-
-> Em breve, adicionarei descrições, imagens e demonstrações dos meus principais projetos nesta seção.
-
-## 📚 Atualmente estudando
-
-- [x] Fundamentos de HTML e CSS
-- [x] Criação e estilização de páginas web
-- [x] Conhecimentos básicos de Java
-- [ ] Aprofundamento em desenvolvimento web
-- [ ] Evolução nos conhecimentos de Java
-- [ ] Aprimoramento do uso de Git e GitHub
-- [ ] Desenvolvimento de projetos cada vez mais completos
-
-## 📊 Minha atividade no GitHub
+## 💻 Tecnologias e ferramentas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-18&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+### 🌐 Desenvolvimento Web
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-18&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3"/></a>
 
-</div>
+### ☕ Programação
 
-## 🎯 Objetivos profissionais
+<a href="https://www.java.com/pt-BR/"><img src="https://skillicons.dev/icons?i=java" height="55" alt="Java"/></a>
 
-Quero iniciar minha carreira na área de tecnologia por meio de uma oportunidade de **Jovem Aprendiz em TI**, colocando meus conhecimentos em prática, aprendendo com profissionais experientes e contribuindo com a equipe.
+### 🧰 Ferramentas
 
-Tenho interesse em conhecer diferentes áreas da tecnologia, desenvolver minhas habilidades técnicas e adquirir experiência profissional.
-
-## 📫 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-guilherme--18-181717?style=for-the-badge&logo=github)](https://github.com/guilherme-18)
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>
 
 </div>
 
-📧 **E-mail:** Adicione seu e-mail profissional aqui.
+<sub>Conhecimentos em desenvolvimento web e fundamentos de Java. Continuo estudando e ampliando minhas habilidades.</sub>
 
 ---
 
+## 🚀 Projetos em destaque
+
 <div align="center">
 
-### 💙 Obrigado por visitar meu perfil!
+<a href="https://github.com/guilherme-18?tab=repositories">
+<img src="https://img.shields.io/badge/📂_MEUS_PROJETOS-Ver_repositórios-1D4ED8?style=for-the-badge" alt="Ver meus projetos"/>
+</a>
 
-*Em constante aprendizado, um projeto de cada vez.* 🚀
+</div>
+
+### 🌐 Desenvolvimento de sites
+
+Atualmente, desenvolvo projetos utilizando HTML e CSS para praticar a estruturação de páginas, a criação de layouts e a organização visual de sites.
+
+**O que busco desenvolver nos meus projetos:**
+
+- 🎨 Interfaces bonitas, organizadas e intuitivas.
+- 📱 Páginas adaptáveis a diferentes tamanhos de tela.
+- 🧩 Código organizado e fácil de entender.
+- 📈 Evolução contínua a cada novo projeto.
+
+> Confira meus repositórios para conhecer os projetos que já desenvolvi e acompanhar minha evolução.
+
+---
+
+## 📚 Minha jornada de aprendizado
+
+<div align="center">
+
+| Área | Meu progresso |
+|:---|:---|
+| 🌐 HTML5 | Fundamentos e criação de páginas |
+| 🎨 CSS3 | Estilização e layouts |
+| ☕ Java | Conhecimentos básicos |
+| 🐙 Git e GitHub | Utilização e evolução contínua |
+| 🇬🇧 Inglês | Nível A2 — em desenvolvimento |
+
+</div>
+
+## 📊 Meu GitHub
+
+<div align="center">
+
+<a href="https://github.com/guilherme-18">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guilherme-18&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub"/>
+</a>
+
+<a href="https://github.com/guilherme-18">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-18&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=guilherme-18&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de atividade no GitHub"/>
+
+</div>
+
+---
+
+## 🎯 Onde quero chegar
+
+Meu objetivo é conquistar minha primeira oportunidade profissional na área de Tecnologia da Informação, especialmente por meio de uma vaga de **Jovem Aprendiz em TI**.
+
+Quero transformar o que estudo em prática, aprender com profissionais experientes, colaborar com equipes e desenvolver as habilidades necessárias para crescer na área.
+
+Para que um dia eu consiga virar um profissional que trabalha com I.A e machine learn.
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/guilherme-18">
+<img src="https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
+</a>
+
+<br/><br/>
+
+**E-mail profissional:** guilhermessoares1818@gmail.com <br/>
+**número de contato** (+55) 11 97177-3558
+ 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Rodapé azul"/>
+
+*Obrigado por visitar meu perfil! 💙*
 
 </div>
