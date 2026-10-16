@@ -17,7 +17,7 @@
 
 - 🎓 Estudante do **1º ano do curso técnico de Análise e Desenvolvimento de Sistemas na ETEC de Guaianases**.
 - 🌐 Estudando desenvolvimento web com **HTML5 e CSS3**.
-- ☕ Possuo conhecimentos básicos em **Java**.
+- ☕ Possuo conhecimentos básicos em **Java** e **python**.
 - 🇬🇧 Estudando inglês, atualmente no nível **A2**.
 - 🧠 Buscando aprender novas tecnologias e desenvolver projetos práticos.
 - 💼 Interessado em oportunidades de **Jovem Aprendiz na área de Tecnologia da Informação (TI)**.
